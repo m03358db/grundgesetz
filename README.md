@@ -22,7 +22,7 @@ der senat kann beschliessen und muss dann dokumentieren:
 
 - abstimmungsregeln für sich selbst
 - festschreiben eines textes (dauerhaft)
-- bildung von ausschüssen mit prokura
+- bildung von ausschüssen mit ermächtigung
 - ausschluss von mitgliedern des senats
 - regeländerungen
 - korrekturen im sternekonto einzelner benutzer

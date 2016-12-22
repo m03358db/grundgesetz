@@ -1,6 +1,6 @@
 # wiki legis
 
-das wiki der gesetze
+# das wiki der gesetze
 
 alle gesetze der deutschen. in diesem wiki sollen die texte verbessert werden; zur teilnahme wird eingeladen. Bitte die regeln beachten.
 

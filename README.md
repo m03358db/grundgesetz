@@ -2,7 +2,7 @@
 
 das wiki der gesetze
 
-alle gesetze der deutschen. in diesem wiki sollen die texte verbessert werden; zur teilnahme wird eingeladen. Bitte die beachten.
+alle gesetze der deutschen. in diesem wiki sollen die texte verbessert werden; zur teilnahme wird eingeladen. Bitte die regeln beachten.
 
 # regeln
 verhaltensregeln wie beim wikipedia. zusätzlich wird vereinbart, zur besseren lesbarkeit ausschliessliche weibliche titulierungen zu verwenden.

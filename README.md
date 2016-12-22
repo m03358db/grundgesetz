@@ -13,9 +13,21 @@ teilnahme erwirkt reputation (siehe bewertungsmechanismus). erreicht eine benutz
 - eine stimme im senat
 
 # senat
-der senat kann beschliessen:
+der senat kann beschliessen und muss dann dokumentieren:
+- abstimmungsregeln für sich selbst
 - festschreiben eines textes (dauerhaft)
 - bildung von ausschüssen mit prokura
 - ausschluss von mitgliedern des senats
 - regeländerungen
-# reputation
+- korrekturen im sternekonto einzelner benutzer
+
+# bewertungsmechanismus
+benutzerinnen erhalten reputationssterne entsprechend dem qualifizierten gebrauch dieses wikis.
+eine erworbene reputation wird veranschaulicht durch ein bis 5 sterne, die den rang der benutzerin wiederspiegeln:
+1 = dau
+2 = lernende
+3 = benutzerin
+4 = expertin
+5 = verfassungshüterin
+die sterne werden vergeben für regelmäßige teilnahme, lebensdauer eigener commits, erfolg von kommentierten threads, likes (likes werden gemäß dem rang der 'likenden' gewichtet: 5 = 100%, 4 = 10%, 3 = 1%, 4 = 5 = 0%).
+sterne werden reduziert für dauer der inaktivität, grammatikfehler, verwendung von begriffen aus der schwarzen liste, lebensunfähigkeit eigener commits, mißerfolg des kommentierten threads, dislikes (es gilt dieselbe gewichtung wie bei likes)

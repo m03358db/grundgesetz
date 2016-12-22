@@ -5,7 +5,7 @@ das wiki der gesetze
 alle gesetze der deutschen. in diesem wiki sollen die texte verbessert werden; zur teilnahme wird eingeladen. Bitte die regeln beachten.
 
 # regeln
-verhaltensregeln wie beim wikipedia und beim github. zusätzlich wird vereinbart, zur besseren lesbarkeit ausschliessliche weibliche titulierungen zu verwenden.
+verhaltensregeln wie beim wikipedia und beim github. zusätzlich wird vereinbart, zur besseren lesbarkeit ausschliesslich weibliche titulierungen oder personalpronomen zu verwenden.
 
 teilnahme erwirkt reputation (siehe bewertungsmechanismus).
 
@@ -26,6 +26,7 @@ der senat kann beschliessen und muss dann dokumentieren:
 - ausschluss von mitgliedern des senats
 - regeländerungen
 - korrekturen im sternekonto einzelner benutzer
+- entlassen der admin, bestimmung einer neuen
 
 # bewertungsmechanismus
 
@@ -33,11 +34,13 @@ benutzerinnen erhalten reputationssterne entsprechend dem qualifizierten gebrauc
 
 eine erworbene reputation wird veranschaulicht durch ein bis 5 sterne, die den rang der benutzerin widerspiegeln:
 
+- 0 = (anonym) - keine teilnahme möglich
 - 1 = dau
 - 2 = lernende
 - 3 = benutzerin
 - 4 = expertin
 - 5 = verfassungshüterin
+- 42 = (admin) - es gibt nur einen gott
 
 die sterne werden vergeben für
 - regelmäßige teilnahme

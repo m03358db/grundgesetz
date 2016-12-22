@@ -9,7 +9,7 @@ verhaltensregeln wie beim wikipedia und beim github. zusätzlich wird vereinbart
 
 teilnahme erwirkt reputation (siehe bewertungsmechanismus).
 
-erreicht eine benutzerin den 1.000.000-fachen reputationswert der durchschnittlichen benutzerin, so wird sie in den rang der verfassungshüterin erhoben und erhält besondere befugnisse; das ausübern dieser befugnisse verpflichtet zur öffentlichen dokumentation des vorgangs:
+erreicht eine benutzerin den 1.000.000-fachen reputationswert der durchschnittlichen benutzerin, so wird sie in den rang der verfassungshüterin erhoben und erhält besondere befugnisse; das ausüben dieser befugnisse verpflichtet zur öffentlichen dokumentation des vorgangs:
 
 - ein drittel-stimmrecht zum ausschluss einer unliebsamen benutzerin (sechs augen prinzip)
 - festschreiben eines textes für die dauer einer periode

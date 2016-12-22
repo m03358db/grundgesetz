@@ -46,13 +46,14 @@ die sterne werden vergeben für
 - regelmäßige teilnahme
 - lebensdauer eigener commits
 - erfolg von kommentierten threads
-- regelkonformem verhalten
+- regelkonformes verhalten
 - github-aktivitäten (branch, merge, diff and repair)
 - likes (likes werden gemäß dem rang der 'likenden' gewichtet: 5 = 100%, 4 = 10%, 3 = 1%, 4 = 5 = 0%).
 
 sterne werden reduziert für
 - dauer der inaktivität
-- grammatikfehler
+- grammatikfehler, rechtschreibfehler
+- technische fehler (bedienung github)
 - verwendung von begriffen aus der schwarzen liste
-- regelverstößen
+- regelverstöße
 - dislikes (es gilt dieselbe gewichtung wie bei likes)

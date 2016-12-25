@@ -40,7 +40,7 @@ eine erworbene reputation wird veranschaulicht durch ein bis 5 sterne, die den r
 - 3 = benutzerin
 - 4 = expertin
 - 5 = verfassungshüterin
-- 42 = (admin) - es gibt nur einen gott
+- 42 = (admin) - es gibt nur eine göttin
 
 die sterne werden vergeben für
 - regelmäßige teilnahme
